@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import tania from '../../content/images/taniawarm.jpg'
+import dsm from '../../content/images/dsmheadshot200x250.png'
 import patreon from '../../content/thumbnails/patreon.png'
 import kofi from '../../content/thumbnails/kofi.png'
 
@@ -10,13 +10,11 @@ export default class UserInfo extends Component {
         <div className="container note-container">
           <div className="flex-author">
             <div className="flex-avatar">
-              <img className="avatar" src={tania} alt="Tania Rascia" />
+              <img className="avatar" src={dsm} alt="David S Maynard" />
             </div>
             <div>
               <p>
-                {`I'm Tania, a full-stack software developer specializing in modern JavaScript. I make
-              open source coding projects and write free, quality articles and tutorials that help
-              thousands of people daily. No ads, no sponsored posts, no bullshit.`}
+                {`I am David S Maynard retired computer scientist and life-long learner`}
               </p>
 
               <div className="flex">
