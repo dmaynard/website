@@ -25,42 +25,23 @@ export default class Index extends Component {
 
     return (
       <Layout>
-        <Helmet title={`${config.siteTitle} – Full-Stack Software Developer`} />
+        <Helmet title={`${config.siteTitle} – Retired Software Engineer`} />
         <SEO />
         <div className="container">
           <div className="lead">
             <div>
-              <h1>{`Hi, I'm Tania`}</h1>
+              <h1>{`David S Maynard: My Blog`}</h1>
               <p>
-                {`I'm a full-stack software developer specializing in modern JavaScript. I write about
-                what I know and break down complex concepts in an accessible and intuitive
-                way.`}
+                {`I am a recently retired software engineer.  I started software engineering in the heart of Silicon Valley in 1972.`}
               </p>
               <p>
-                I like making things from scratch and <a href="/learn">learning in public</a>. My
-                open source projects include{' '}
-                <a href="https://github.com/taniarascia/laconia/" target="blank">
-                  an MVC framework
-                </a>
-                ,{' '}
-                <a href="https://taniarascia.github.io/primitive/" target="blank">
-                  a CSS framework
-                </a>
-                ,{' '}
-                <a href="https://github.com/taniarascia/chip8/" target="blank">
-                  an old-school emulator
-                </a>
-                , and{' '}
-                <a href="https://taniarascia.github.io/new-moon/" target="blank">
-                  the optimized dark theme
-                </a>{' '}
-                for web development.
+              I am publishing this blog to tell you some stories I've witnessed watching and participating in computer revolutions from Augmentation of Paperwork, to networking, to the personal computer, to computer gaming, to 3D, to mobile. I will also use this blog to document my continuing journey of learning software and cretion in retirement. My first project in simulating a software game I wrote that Electronic Arts published in 1983.
               </p>
               <div className="social-buttons">
                 <div>
                   <a
                     className="twitter-follow-button"
-                    href="https://twitter.com/taniarascia"
+                    href="https://twitter.com/dsmaynard"
                     data-size="large"
                     data-show-screen-name="false"
                   >
@@ -69,10 +50,10 @@ export default class Index extends Component {
                 </div>
                 <div>
                   <GitHubButton
-                    href="https://github.com/taniarascia"
+                    href="https://github.com/dsmaynard"
                     data-size="large"
                     data-show-count="true"
-                    aria-label="Follow @taniarascia on GitHub"
+                    aria-label="Follow @dmaynard on GitHub"
                   >
                     Follow
                   </GitHubButton>

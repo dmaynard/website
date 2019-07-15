@@ -4,27 +4,29 @@ slug: me
 template: page
 ---
 
-I’m Tania Rascia, a full-stack software developer, technical writer, and former chef from Chicago. I currently work as a front end engineer for [DAIS](https://www.dais.com/), and I've also written for [DigitalOcean](https://www.digitalocean.com/community/users/taniarascia), [SitePoint](https://www.sitepoint.com/author/trascia/), [Envato Tuts+](https://tutsplus.com/authors/tania-rascia), and [more](/publications).
+I am a computer scientist recently retired from a fascinating career of riding the leading edge wave of several computer revolutions in Silicon Valley.
 
-I started this website as a place to document everything I learned while going through a [career change](https://www.taniarascia.com/how-i-made-a-career-change-into-web-development/). I [learn in public](/learn) and write about everything I know.
+I graduated from UC Berkeley with a BA in Computer Science in 1969, thee second year that degree was offered at Berkeley.
+ I have had a wonderful career as a software engineer and manager in Silicon Valley.  I have been in the right places at the right times to watch and participate in the computer revolutions. I have had the opportunity to work in some truly remarkable organizations with some some amazingly talented and visionary people.  I am creating this blog in order to record some of my experiences during this journey, and as the journey continues through retirement.
 
-I aim to create a beautiful corner of the web free of ads, sponsored posts, newsletter pop-ups, affiliate links, and the rest of the annoying noise we're so accustomed to seeing on the internet these days.
 
-![Me](../images/taniafull.jpg)
+I plan to record in this blog some of the Silicon Valley history I have witnessed
+
+![Me](../images/dsmheadshot200x250.png)
 
 ### Around the web
 
-- Email: [tania@taniarascia.com](mailto:tania@taniarascia.com)
-- GitHub: [taniarascia](https://github.com/taniarascia)
-- Twitter: [taniarascia](https://twitter.com/taniarascia)
-- LinkedIn: [taniarascia](https://linkedin.com/in/taniarascia)
+- Email: [davidsmaynard AT gmail DOT com](mailto:davidsmaynard@gmail.com)
+- GitHub: [dmaynard](https://github.com/dmaynard)
+- Twitter: [dsmaynard](https://twitter.com/dsmaynard)
+- LinkedIn: [David Maynard](https://linkedin.com/in/taniarascia)
 
 ## Links
 
 A non-exhaustive list.
 
-- [Vanya Sergeev](https://sergeev.io) – a brilliant programmer who is very important to me
-- [Teodor Nikolaev](https://teodor.co/) – a talented designer, developer, artist, photographer, and Bulgarian
+- [Douglas Engelbart](http://dougengelbart.org/) – a visionary I had the honor of working for
+- [Bill Duvall](https://www.youtube.com/watch?v=MKwQ2jFETaQ) – Brilliant programmer, software pioneer, mentor, pilot
 - [Craig Lam](http://craiglam.com/) – one of the funniest people I’ve ever met and the mastermind behind Scripto
 - [Ben Schroeder](https://benschroeder.com/) – a dear friend of mine who is knowledgeable, hilarious, and eloquent
 - [Dave Bock](https://dkbock.com/) – an excellent designer and insightful friend
