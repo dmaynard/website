@@ -12,6 +12,7 @@ import config from '../../data/SiteConfig'
 import projects from '../../data/projects'
 import speaking from '../../data/speaking'
 import podcasts from '../../data/podcasts'
+import videos from '../../data/videos'
 import react from '../../content/thumbnails/react.png'
 import vue from '../../content/thumbnails/vue.png'
 import js from '../../content/thumbnails/js.png'
@@ -35,7 +36,7 @@ export default class Index extends Component {
                 {`I am a recently retired software engineer.  I started software engineering in the heart of Silicon Valley in 1972.`}
               </p>
               <p>
-              I am publishing this blog to tell you some stories I've witnessed watching and participating in computer revolutions from Augmentation of Paperwork, to networking, to the personal computer, to computer gaming, to 3D, to mobile. I will also use this blog to document my continuing journey of learning software and cretion in retirement. My first project in simulating a software game I wrote that Electronic Arts published in 1983.
+              I am publishing this blog relate and record some of my memories of watching and participating in multiple computer revolutions, from the first the human/computer interfaces, to local area networking, to the birth of the GUI, to the personal computer, to computer gaming, to 3D, to internet based mobile maps, to mobile interfaces to cloud based services. I will also use this blog to document my continuing journey of learning software systems and frameworks and creation of software art in retirement. My first project in simulating a software game I wrote that Electronic Arts published in 1983.
               </p>
               <div className="social-buttons">
                 <div>
@@ -45,12 +46,12 @@ export default class Index extends Component {
                     data-size="large"
                     data-show-screen-name="false"
                   >
-                    Follow @taniarascia
+                    Follow @dsmaynard
                   </a>
                 </div>
                 <div>
                   <GitHubButton
-                    href="https://github.com/dsmaynard"
+                    href="https://github.com/dmaynard"
                     data-size="large"
                     data-show-count="true"
                     aria-label="Follow @dmaynard on GitHub"
@@ -91,44 +92,28 @@ export default class Index extends Component {
           </section>
 
           <section className="section">
-            <h2>Podcasts</h2>
-            <SimpleListing simple data={podcasts} />
+            <h2>Videos</h2>
+            <SimpleListing simple data={videos} />
           </section>
 
-          <section className="section">
-            <h2>Speaking</h2>
-            <SimpleListing simple data={speaking} />
-          </section>
+
 
           <section className="section">
             <h2>{`Other People's Opinions`}</h2>
             <div className="quotations">
               <blockquote className="quotation">
                 <p>
-                  {`“It's no exaggeration to say that I
-                wouldn't currently have a job in development without this site. So thanks for
-                ruining my life, Tania.”`}
+                  {`“Now, I've never met Mr. Maynard, but after playing Worms? for about 20 hours, I can tell you that he has probably the most original, refreshing, and seriously weird imagination of any video game designer today.”`}
                 </p>
-                <cite>— Craig</cite>
+                <cite>— William Micheal Brown - Electronic Fun Magazine</cite>
               </blockquote>
               <blockquote className="quotation">
                 <p>
-                  {`“Not to get too dramatic, but I find your site to be an unspeakably beautiful
-                lifeboat in an overwhelming sea of technical jargon and shite.”`}
+                  {`“Worms? is one of the most fascinating games I've played in a long time. It's so different from anything else that it quickly captivated me. Worms? tournaments became popular among the staff of COMPUTE!. ”`}
                 </p>
-                <cite>— Lori</cite>
+                <cite>— Greg Keizer Assistant Editor COMPUTE magazine</cite>
               </blockquote>
             </div>
-          </section>
-
-          <section className="newsletter-section section">
-            <h2>Join the Newsletter</h2>
-            <p>
-              I write about JavaScript, programming, and front-end design. Join over{' '}
-              <strong class="pink">6,000</strong> other developers in keeping up with my content.
-              Unsubscribe whenever. <u>Never any spam, ads, or affiliate links.</u>
-            </p>
-            <NewsletterForm />
           </section>
         </div>
       </Layout>

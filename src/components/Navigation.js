@@ -49,7 +49,7 @@ export default class Navigation extends Component {
                 {link.name}
               </Link>
             ))}
-            <a target="_blank" rel="noopener noreferrer" href="https://ko-fi.com/taniarascia">
+            <a target="_blank" rel="noopener noreferrer" href="https://ko-fi.com/davidsmaynard0797">
               <img src={kofi} alt="Kofi" className="kofi" />
             </a>
             <div className="cta">

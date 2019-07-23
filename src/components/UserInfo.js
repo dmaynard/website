@@ -29,7 +29,7 @@ export default class UserInfo extends Component {
                 </a>
                 <a
                   className="patreon-button"
-                  href="https://www.patreon.com/taniarascia"
+                  href="https://www.patreon.com/davidsmaynard"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
