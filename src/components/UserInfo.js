@@ -19,7 +19,7 @@ export default class UserInfo extends Component {
 
               <div className="flex">
                 <a
-                  href="https://ko-fi.com/taniarascia"
+                  href="https://ko-fi.com/davidsmaynard0797"
                   className="donate-button"
                   target="_blank"
                   rel="noopener noreferrer"

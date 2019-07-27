@@ -19,7 +19,8 @@ I plan to record in this blog some of the Silicon Valley history I have witnesse
 - Email: [davidsmaynard AT gmail DOT com](mailto:davidsmaynard@gmail.com)
 - GitHub: [dmaynard](https://github.com/dmaynard)
 - Twitter: [dsmaynard](https://twitter.com/dsmaynard)
-- LinkedIn: [David Maynard](https://linkedin.com/in/taniarascia)
+- LinkedIn: [David Maynard](https://linkedin.com/in/davidsmaynard)
+- Ko-fi: [David Maynard](https://ko-fi.com/davidsmaynard0797)
 
 ## Links
 
@@ -27,10 +28,8 @@ A non-exhaustive list.
 
 - [Douglas Engelbart](http://dougengelbart.org/) – a visionary I had the honor of working for
 - [Bill Duvall](https://www.youtube.com/watch?v=MKwQ2jFETaQ) – Brilliant programmer, software pioneer, mentor, pilot
-- [Craig Lam](http://craiglam.com/) – one of the funniest people I’ve ever met and the mastermind behind Scripto
-- [Ben Schroeder](https://benschroeder.com/) – a dear friend of mine who is knowledgeable, hilarious, and eloquent
-- [Dave Bock](https://dkbock.com/) – an excellent designer and insightful friend
-- [Joe Carlyon](http://qualitytesting.tech/) – the automation expert and an awesome guy who makes great beer
+- [Tania Rascia](http://taniarascia.com/) – wonderful front end tutorials from a brilliant self-taught front end developer
+- [Trip Hawkins](https://tmp.ucsb.edu/about/people/trip-hawkins) – Three start-ups with Trip taught me invaluable lessons.
 
 ## Music
 
@@ -101,10 +100,8 @@ Sometimes I sing and play accordion/piano. I like to [record music](https://soun
 ## Currently Using
 
 - **Computer:** MacBook Pro 2015
-- **Hosting:** [Netlify](https://netlify.com), [AWS](https://aws.amazon.com)
-- **Editor:** [Visual Studio Code](https://code.visualstudio.com/)
+- **Hosting:** [Netlify](https://netlify.com)
+- **Editor:** [Atom](https://code.atom.io/)
 - **Static site generator (blog):** [Gatsby](https://gatsbyjs.org)
 - **Syntax highlighting:** [PrismJS](http://prismjs.com/)
 - **Code syntax theme:** [New Moon](https://taniarascia.github.io/new-moon)
-- **Newsletter:** [Sendy](https://sendy.co)
-- **Notes:** [SimpleNote](https://simplenote.com/)
