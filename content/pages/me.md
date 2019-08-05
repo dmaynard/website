@@ -30,25 +30,8 @@ A non-exhaustive list.
 - [Bill Duvall](https://www.youtube.com/watch?v=MKwQ2jFETaQ) – Brilliant programmer, software pioneer, mentor, pilot
 - [Tania Rascia](http://taniarascia.com/) – wonderful front end tutorials from a brilliant self-taught front end developer
 - [Trip Hawkins](https://tmp.ucsb.edu/about/people/trip-hawkins) – Three start-ups with Trip taught me invaluable lessons.
-
-## Music
-
-Sometimes I sing and play accordion/piano. I like to [record music](https://soundcloud.com/ivoryandivory) in my spare time. Here are some.
-
-- [I’d Like to Walk Around In Your Mind](https://soundcloud.com/ivoryandivory/id-like-to-walk-around-in-your-mind)
-- [Such Great Heights](https://soundcloud.com/john-termaat/such-great-heights) (duet)
-- [Night Nurse](https://soundcloud.com/john-termaat/night-nurse) (duet)
-- [El Pasadiscos](https://soundcloud.com/ivoryandivory/el-pasadiscos)
-- [Mad World](https://soundcloud.com/ivoryandivory/mad-world)
-- [You And I](https://soundcloud.com/ivoryandivory/you-and-i)
-- [Just Like Heaven](https://soundcloud.com/ivoryandivory/just-like-heaven)
-- [The Winner Takes It All](https://soundcloud.com/ivoryandivory/the-winner-takes-it-all)
-- [Wicked Game](https://soundcloud.com/ivoryandivory/wicked-game)
-- [Truce](https://soundcloud.com/ivoryandivory/truce)
-- [Something Wild](https://soundcloud.com/ivoryandivory/something-wild)
-- [Bridge Over Troubled Water](https://soundcloud.com/ivoryandivory/bridge-over-troubled-water)
-- [Rainy Monday](https://soundcloud.com/ivoryandivory/rainy-monday)
-- [Saloon](https://soundcloud.com/ivoryandivory/saloon)
+- [Aaron Levy] Co-founder and CEO of Box.  Brilliant, passionate and funny
+- [Shannon Maher]
 
 ## Timeline
 
@@ -89,13 +72,6 @@ Sometimes I sing and play accordion/piano. I like to [record music](https://soun
 - **2010 - 2011** - Total Immersion Software. Wrote an Android app worm by bomb detection dogs to help train dog trainers.
 - **2011 - 2017** - Box Inc.  Manager of Mobile Applications.  Managed iOS and Android application developemnt for the Box cloud Content Management System.
 - **20017 - Present** - Retired, but still learning new things and still hacking code.
-## Published Articles
-
-- [View all](/publications)
-
-## 3D Printer
-
-- [3D Printer Projects](https://github.com/taniarascia/3d)
 
 ## Currently Using
 
