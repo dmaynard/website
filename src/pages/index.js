@@ -14,7 +14,7 @@ import speaking from '../../data/speaking'
 import podcasts from '../../data/podcasts'
 import videos from '../../data/videos'
 import react from '../../content/thumbnails/react.png'
-import vue from '../../content/thumbnails/vue.png'
+import vue from '../../content/thumbnails/darwormslogo-300x300.png'
 import js from '../../content/thumbnails/js.png'
 
 export default class Index extends Component {

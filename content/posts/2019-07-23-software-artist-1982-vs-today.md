@@ -1,41 +1,20 @@
 ---
 date: 2019-07-23
-title: 'Announcing the Official Launch of Darworms'
+title: 'software artist 1982 vs today'
 template: post
 thumbnail: '../thumbnails/darwormslogo-300x300.png'
-slug: darworms
+slug: software-artist-1982-vs-today
 categories:
-  - JavaScript
-  - Darworms
+  - javaScript
+  - darworms
+  - software-artist
 tags:
+  - software-artist-1982-vs-today
   - javascript
   - software-artist
   - darworms
 ---
-
-## What
-I am launching [Darworms](https://darworms.com), a web based port of the games [*Worms?*](https://en.wikipedia.org/wiki/Worms%3F) which I wrote in 1982 on an Atari 800 and was published as a launch title by Electronic Arts in May of 1983. Darworms is a one to four player strategy game of territory capture.
-![](../images/darworms-screenshot-652x670.png)
-## Why
-Why would anyone want to spend time recreating a 36 year old video game that was a relative commercial flop when it shipped even with a massive Electronic Arts [ad campaign](https://www.eurogamer.net/articles/2018-09-16-seeing-farther-the-advert-that-changed-the-games-industry) behind the launch titles?
-* For fun and, alas, probably *not* for profit
-* I like to code, I really do
-* I retired in 2017
-* I wanted to learn front-end devvelopment, JavaScript (ES6), modern frontend development practices, HTML 5 and canvas graphics
-* I am intrigued by the existence of the browser platform which offers the potential of frictionless distribution to literally billions of people.
-* I wanted a project that might enable meaningful comparisons between the 1980's and now for software development, user platforms, software distribution, and software marketing.
-* Even though I know the game will not appeal to all audiences, I also know from experience a small subset of the audience (hello geeks and nerds) will find the game fascinating.  The original *Worms?* had a small but dedicated cult following.
-* I still find the game interesting.  For example even though the game is entirely deterministic, I have no idea whether the player who moves first in a two player game has an advantage.
-* I want to compare and contrast independent game development in the 80's versus today.  Delelopment tool and process, and distribution and marketing strategies.
-* I want to see if a being "Software Artist" is a viable goal today. Is it possible for a one man shop to create, publish, distribute and market a casual game today.  Is it possible to make enough money to at least cover costs? 
-
-## How
-Darworms is implemented as a single page application. It is written in a modern version of JavaScript called ECMA Script 6 or simply ES6.  It uses an application framework called [JQuery Mobile](https://jquerymobile.com/) which is built on top of [JQuery](https://jquery.com/).
-I developed Darworms using my 15" MacBook Pro with 16MB of RAM. I stated out using Webstorm as an IDE but switched to [Atom](https://atom.io). [Github](https://github.com/dmaynard/Darworms) is used for source control. Deployment to darworms.com and serving darworms.com is done by [Netlify](https:netlify.com) which is amazing and wonderful.
-
-So please, if you like abstract strategy games.  check out [Darworms](https:www.darworms.com)} out and let me know what you think.  Thank you.
-
-## State of the Art Software Development in 1982
+State of the Art Software Development in 1982
 
 ![Xerox Star](../images/XeroxStar.jpg)
 
@@ -59,6 +38,9 @@ This was back in the day when you had to get the software correct **BEFORE** you
 So game development was possible for an indivdual software artist in 1982.  However marketing, publishing and distributing software was all but impossible for an individual.  So one needed a publisher.  I was very lucky that Electronic Arts published my game. I have long suspected that their desire to hire me played a large role in their decision.
 
 ## Indie Software Development Today
+
+Darworms is implemented as a single page application. It is written in a modern version of JavaScript called ECMA Script 6 or simply ES6.  It uses an application framework called [JQuery Mobile](https://jquerymobile.com/) which is built on top of [JQuery](https://jquery.com/).
+I developed Darworms using my 15" MacBook Pro with 16MB of RAM. I stated out using Webstorm as an IDE but switched to [Atom](https://atom.io). [Github](https://github.com/dmaynard/Darworms) is used for source control. Deployment to darworms.com and serving darworms.com is done by [Netlify](https:netlify.com) which is amazing and wonderful.
 Today the independent game developer has an embarressment of riches at her disposal.  For about the price of my Atari 800 with extra memory and disk drives I now have a 15" MacBook Pro, with a 5,000 times faster CPU, and with over 300,000 times more RAM. The amount of information I have immediate access to is has grown at an even faster rate with the development of the internet.  However the complexity of the systems has almost kept pace.  In 1982 my entire development environment was 250 KB (three floppies).  Today my Darworms project directory alone is about 100 MB or 400 time larger. Here are the technologies I had to learn to complete the game in
 ### 1982:
 * Atari Hardware Architecture

@@ -2,7 +2,7 @@
 date: 2019-05-16
 title: 'Getting Started with Vue - An Overview and Walkthrough Tutorial'
 template: post
-thumbnail: '../thumbnails/vue.png'
+thumbnail: '../thumbnails/darwormslogo-300x300.png'
 slug: getting-started-with-vue
 categories:
   - JavaScript
@@ -950,7 +950,7 @@ Editing works, but you still can't cancel the state from updating with this code
 
 ```js
 editMode(employee) {
-  this.editing = id	      
+  this.editing = id
   this.cachedEmployee = Object.assign({}, employee)
   this.editing = employee.id
 },
