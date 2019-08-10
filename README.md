@@ -2,8 +2,6 @@
 
 Personal website running on Gatsby, React, and Node.js.
 
-- [Read about it on the official Gatsby blog!](https://www.gatsbyjs.org/blog/2019-03-21-migrating-from-wordpress-to-gatsby/)
-
 ## Installation
 
 Run local server:
@@ -32,13 +30,12 @@ If you see any typos or formatting errors in a post, or any other issue that nee
 
 ## Acknowledgements
 
-- Ruben Harutyunyan - [Gatsby Advanced Starter](https://github.com/vagr9k/gatsby-advanced-starter/)
-- Muhammad Muhsin - [Using React Context API with Gatsby](https://www.gatsbyjs.org/blog/2019-01-31-using-react-context-api-with-gatsby/)
-- Thomas Frössman - [ExitWP](https://github.com/thomasf/exitwp) - WordPress XML to Markdown
+- [Tania Rascia](http://taniarascio.com) - Original Website Design, New Moon Theme, Teacher
+
 
 ## Author
 
-- [Tania Rascia](https://www.taniarascia.com)
+- [David S Maynard](https://www.davidsmaynard.com)
 
 ## License
 
