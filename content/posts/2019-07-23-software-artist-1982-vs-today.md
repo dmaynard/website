@@ -1,18 +1,17 @@
 ---
 date: 2019-07-23
-title: 'software artist 1982 vs today'
+title: 'Software Artist 1982 vs Today'
 template: post
-thumbnail: '../thumbnails/darwormslogo-300x300.png'
+thumbnail: '../thumbnails/Atari_800_System_s1.jpg'
 slug: software-artist-1982-vs-today
 categories:
-  - javaScript
+  - JavaScript
   - darworms
   - software-artist
 tags:
-  - software-artist-1982-vs-today
+  - software-artist
   - javascript
   - software-artist
-  - darworms
 ---
 State of the Art Software Development in 1982
 

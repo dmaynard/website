@@ -36,7 +36,7 @@ export default class Index extends Component {
                 {`I am a recently retired software engineer.  I started software engineering in the heart of Silicon Valley in 1972.`}
               </p>
               <p>
-              I am publishing this blog relate and record some of my memories of watching and participating in multiple computer revolutions, from the first the human/computer interfaces, to local area networking, to the birth of the GUI, to the personal computer, to computer gaming, to 3D, to internet based mobile maps, to mobile interfaces to cloud based services. I will also use this blog to document my continuing journey of learning software systems and frameworks and creation of software art in retirement. My first project in simulating a software game I wrote that Electronic Arts published in 1983.
+              I am publishing this blog relate and record some of my memories of watching and participating in multiple computer revolutions, from the first the human/computer interfaces, to local area networking, to the birth of the GUI, to the personal computer, to computer gaming, to 3D, to internet based mobile maps, to mobile interfaces to cloud based services. I will also use this blog to document my continuing journey of learning software systems and frameworks and creation of software art in retirement. My first project is reproducing a software game I wrote that Electronic Arts published in 1983, "Worms?".
               </p>
               <div className="social-buttons">
                 <div>
