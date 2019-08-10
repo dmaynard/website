@@ -7,8 +7,8 @@ Personal website running on Gatsby, React, and Node.js.
 Run local server:
 
 ```bash
-git clone https://github.com/taniarascia/taniarascia.com
-cd taniarascia.com
+git clone https://github.com/dmaynard/website
+cd website
 yarn
 yarn run dev
 ```
