@@ -30,7 +30,7 @@ If you see any typos or formatting errors in a post, or any other issue that nee
 
 ## Acknowledgements
 
-- [Tania Rascia](http://taniarascio.com) - Original Website Design, New Moon Theme, Teacher
+- [Tania Rascia](http://taniarascia.com) - Original Website Design, New Moon Theme, Teacher
 
 
 ## Author
