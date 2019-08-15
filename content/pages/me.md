@@ -6,8 +6,8 @@ template: page
 
 I am a computer scientist recently retired from a fascinating career of riding the leading edge wave of several computer revolutions in Silicon Valley.
 
-I graduated from UC Berkeley with a BA in Computer Science in 1969, thee second year that degree was offered at Berkeley.
- I have had a wonderful career as a software engineer and manager in Silicon Valley.  I have been in the right places at the right times to watch and participate in the computer revolutions. I have had the opportunity to work in some truly remarkable organizations with some some amazingly talented and visionary people.  I am creating this blog in order to record some of my experiences during this journey, and as my journey of continued learning and discovery continues through retirement.
+I graduated from UC Berkeley with a BA in Computer Science in 1969, only the second year that degree was offered at Berkeley.
+ I have had a wonderful career as a software engineer, a software artist  and an engineering manager in Silicon Valley.  I have been in the right places at the right times to watch and participate in the computer revolutions. I have had the opportunity to work in some truly remarkable organizations with some some amazingly talented and visionary people.  I am creating this blog in order to record some of my experiences during this journey, and as my journey of learning and discovery continues through retirement.
 
 
 I plan to record in this blog some of the Silicon Valley history I have witnessed, and tell stories about some of the incredible computer programmers I have met. I will also share some of my amateur photography.
@@ -79,5 +79,4 @@ A non-exhaustive list.
 - **Hosting:** [Netlify](https://netlify.com)
 - **Editor:** [Atom](https://code.atom.io/)
 - **Static site generator (blog):** [Gatsby](https://gatsbyjs.org)
-- **Syntax highlighting:** [PrismJS](http://prismjs.com/)
 - **Code syntax theme:** [New Moon](https://taniarascia.github.io/new-moon)

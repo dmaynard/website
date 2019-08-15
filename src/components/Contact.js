@@ -20,7 +20,7 @@ export default class Contact extends Component {
           <li>
             <strong>GitHub</strong>:{' '}
             <a target="_blank" rel="noopener noreferrer" href="https://github.com/dmaynard">
-              dsmaynard
+              dmaynard
             </a>
           </li>
           <li>

@@ -104,13 +104,13 @@ module.exports = {
         display: 'minimal-ui',
         icons: [
           {
-            src: '/logos/logo-48.png',
-            sizes: '48x48',
+            src: '/logos/lLegoDSM32.png',
+            sizes: '32x32',
             type: 'image/png',
           },
           {
-            src: '/logos/logo-1024.png',
-            sizes: '1024x1024',
+            src: '/logos/DSMbyNormanSeef600x600.png',
+            sizes: '600x600',
             type: 'image/png',
           },
         ],
@@ -122,7 +122,7 @@ module.exports = {
         setup(ref) {
           const ret = ref.query.site.siteMetadata.rssMetadata
           ret.allMarkdownRemark = ref.query.allMarkdownRemark
-          ret.generator = 'Tania Rascia'
+          ret.generator = 'David Maynard'
           return ret
         },
         query: `

@@ -2,7 +2,7 @@ const config = {
   siteTitle: 'David S Maynard',
   siteTitleShort: 'David S Maynard',
   siteTitleAlt: 'David S Maynard',
-  siteLogo: '/logos/tania.jpg',
+  siteLogo: '/logos/LegoDSM32.png',
   siteUrl: 'https://www.davidsmaynard.com',
   repo: 'https://github.com/dmaynard/website',
   pathPrefix: '',

@@ -33,5 +33,3 @@ Why would anyone want to spend time recreating a 36 year old video game that was
 So please, if you like abstract strategy games.  check out [Darworms](https:www.darworms.com) out and let me know what you think.  If you like it please share it. Thank you.
 
 If you are interested in comparisons between the experience of being a Software Artist in 1982 versus today you can read my blog post [here](/software-artist-1982-vs-today/)
-![Xerox Star](../images/XeroxStar.jpg)
-![figforth](../images/fig-forth.png)

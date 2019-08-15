@@ -6,16 +6,17 @@ import Layout from '../layout'
 import PostListing from '../components/PostListing'
 import ProjectListing from '../components/ProjectListing'
 import SimpleListing from '../components/SimpleListing'
-import NewsletterForm from '../components/NewsletterForm'
+
 import SEO from '../components/SEO'
 import config from '../../data/SiteConfig'
 import projects from '../../data/projects'
-import speaking from '../../data/speaking'
-import podcasts from '../../data/podcasts'
+
+
 import videos from '../../data/videos'
 import react from '../../content/thumbnails/react.png'
 import vue from '../../content/thumbnails/darwormslogo-300x300.png'
 import js from '../../content/thumbnails/js.png'
+import UserInfo from '../components/UserInfo'
 
 export default class Index extends Component {
   render() {
@@ -33,10 +34,10 @@ export default class Index extends Component {
             <div>
               <h1>{`David S Maynard: My Blog`}</h1>
               <p>
-                {`I am a recently retired software engineer.  I started software engineering in the heart of Silicon Valley in 1972.`}
+              From graduation, with a Computer Science Degree from U.C. Berkeley in 1969, through my recent retirement from Box Inc. with stops at SRI, Xerox PARC, Electronic Arts, SGI, and Google I have watched
+                <a target="_blank" href="https://a16z.com/2011/08/20/why-software-is-eating-the-world/"> software eating the world.</a>
               </p>
-              <p>
-              I am publishing this blog relate and record some of my memories of watching and participating in multiple computer revolutions, from the first the human/computer interfaces, to local area networking, to the birth of the GUI, to the personal computer, to computer gaming, to 3D, to internet based mobile maps, to mobile interfaces to cloud based services. I will also use this blog to document my continuing journey of learning software systems and frameworks and creation of software art in retirement. My first project is reproducing a software game I wrote that Electronic Arts published in 1983, "Worms?".
+              <p>I am writing this blog to record some of my memories of watching, and participating in, multiple computer revolutions, from the first the human/computer interfaces, to local area networking, to the birth of the GUI, to the personal computer, to computer gaming, to 3D, to internet based mobile maps, to mobile interfaces to cloud based services. I will also use this blog to document my continuing journey of learning software systems and frameworks and creation of software art in retirement. My first two retirement projects are reproducing a software game I wrote that Electronic Arts published in 1983, "Worms?", as a single page JavaScript Application, and creating this blog using <a target="_blank" href="https://www.gatsbyjs.org/"> Gatsby.</a>
               </p>
               <div className="social-buttons">
                 <div>
@@ -44,6 +45,7 @@ export default class Index extends Component {
                     className="twitter-follow-button"
                     href="https://twitter.com/dsmaynard"
                     data-size="large"
+                    data-show-count="true"
                     data-show-screen-name="false"
                   >
                     Follow @dsmaynard
@@ -60,17 +62,6 @@ export default class Index extends Component {
                   </GitHubButton>
                 </div>
               </div>
-            </div>
-            <div className="callouts">
-              <Link to="/getting-started-with-react" className="article-callout">
-                <img src={react} alt="React" /> React
-              </Link>
-              <Link to="/getting-started-with-vue" className="article-callout">
-                <img src={vue} alt="Vue" /> Vue
-              </Link>
-              <Link to="/es6-syntax-and-feature-overview/" className="article-callout">
-                <img src={js} alt="JS" /> JavaScript
-              </Link>
             </div>
           </div>
         </div>
@@ -116,6 +107,7 @@ export default class Index extends Component {
             </div>
           </section>
         </div>
+        <UserInfo config={config} />
       </Layout>
     )
   }
