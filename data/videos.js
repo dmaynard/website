@@ -26,7 +26,7 @@ const videos = [
   {
     title: 'Worms?  - David Maynard discusses his game Worms? and his 15 minutes of fame at EA.',
     path: 'https://www.youtube.com/watch?v=K3Gc9ieFnXI',
-    img: darworms,
+    img: legodsm,
   },
 ]
 
