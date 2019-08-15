@@ -1,6 +1,6 @@
 import legodsm from '../content/images/LegoDSM32.png'
 import keyset from '../content/images/keyset.jpg'
-import darwormslogo from '../content/images/Darwormsicon-32x32.png'
+// import darwormslogo from '../content/images/Darwormsicon-32x32.png'
 
 const videos = [
   {
@@ -26,7 +26,7 @@ const videos = [
   {
     title: 'Worms?  - David Maynard discusses his game Worms? and his 15 minutes of fame at EA.',
     path: 'https://www.youtube.com/watch?v=K3Gc9ieFnXI',
-    img: darwormslogo,
+    img: legodsm,
   },
 ]
 
