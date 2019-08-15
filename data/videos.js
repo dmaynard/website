@@ -1,6 +1,6 @@
 import legodsm from '../content/images/LegoDSM32.png'
 import keyset from '../content/images/keyset.jpg'
-import darworms from '../content/images/Darwormsicon-32x32.png'
+// import darworms from '../content/images/Darwormsicon-32x32.png'
 
 const videos = [
   {
