@@ -1,6 +1,6 @@
 import legodsm from '../content/images/LegoDSM32.png'
 import keyset from '../content/images/keyset.jpg'
-// import darwormslogo from '../content/images/Darwormsicon-32x32.png'
+import darwormslogo from '../content/thumbnails/darwormslogo-300x300.png'
 
 const videos = [
   {
@@ -19,13 +19,13 @@ const videos = [
     img: keyset,
   },
   {
-    title: 'The First Internet Packet  - David Maynard explains the first ARPA net packet failed.',
-    path: 'https://www.youtube.com/watch?v=DjTh65tOFh0',
-    img: legodsm,
-  },
-  {
     title: 'Worms?  - David Maynard discusses his game Worms? and his 15 minutes of fame at EA.',
     path: 'https://www.youtube.com/watch?v=K3Gc9ieFnXI',
+    img: darwormslogo,
+  },
+  {
+    title: 'The First Internet Packet  - David Maynard explains the first ARPA net packet failed.',
+    path: 'https://www.youtube.com/watch?v=DjTh65tOFh0',
     img: legodsm,
   },
 ]
