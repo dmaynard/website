@@ -22,16 +22,21 @@ I plan to record in this blog some of the Silicon Valley history I have witnesse
 - LinkedIn: [David Maynard](https://linkedin.com/in/davidsmaynard)
 - Ko-fi: [David Maynard](https://ko-fi.com/davidsmaynard0797)
 
+## Family
+![Sall and I](../images/Maynards.jpg)
+I have been married to my beautiful and talented wife Sally for 36 years.
+I have 3 kids, Jordan, Phil, and Dana.  All three are alumni of Electronic Arts, and my two sons are still very actie in the game industry at [Manitcore](https://www.manticoregames.com/)
 ## Links
 
 A non-exhaustive list.
 
 - [Douglas Engelbart](http://dougengelbart.org/) – a visionary I had the honor of working for
 - [Bill Duvall](https://www.youtube.com/watch?v=MKwQ2jFETaQ) – Brilliant programmer, software pioneer, mentor, pilot
+- [Bill English](https://en.wikipedia.org/wiki/Bill_English_(computer_engineer)) Co-inventor of the mouse, mentor, first CFO of Unicode Consortium.
 - [Tania Rascia](http://taniarascia.com/) – wonderful front end tutorials from a brilliant self-taught front end developer
 - [Trip Hawkins](https://tmp.ucsb.edu/about/people/trip-hawkins) – Three start-ups with Trip taught me invaluable lessons.
-- [Aaron Levy] Co-founder and CEO of Box.  Brilliant, passionate and funny
-- [Shannon Maher]
+- [Aaron Levy](https://en.wikipedia.org/wiki/Aaron_Levie) Co-founder and CEO of Box.  Brilliant, passionate and funny
+
 
 ## Timeline
 
