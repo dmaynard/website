@@ -104,6 +104,12 @@ export default class Index extends Component {
                 </p>
                 <cite>— Greg Keizer Assistant Editor COMPUTE magazine</cite>
               </blockquote>
+              <blockquote className="quotation">
+                <p>
+                  {`“This is the most original piece of recreational software I have ever seen.”`}
+                </p>
+                <cite>— Tom Benford **RUN** May 1984 magazine</cite>
+              </blockquote>
             </div>
           </section>
         </div>
