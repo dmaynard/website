@@ -4,8 +4,6 @@ slug: me
 template: page
 ---
 
-I am a computer scientist recently retired from a fascinating career of riding the leading edge wave of several computer revolutions in Silicon Valley.
-
 I graduated from UC Berkeley with a BA in Computer Science in 1969, only the second year that degree was offered at Berkeley.
  I have had a wonderful career as a software engineer, a software artist  and an engineering manager in Silicon Valley.  I have been in the right places at the right times to watch and participate in the computer revolutions. I have had the opportunity to work in some truly remarkable organizations with some some amazingly talented and visionary people.  I am creating this blog in order to record some of my experiences during this journey, and as my journey of learning and discovery continues through retirement.
 

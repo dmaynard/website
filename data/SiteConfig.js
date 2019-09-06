@@ -1,9 +1,9 @@
 const config = {
-  siteTitle: 'David S Maynard',
-  siteTitleShort: 'David S Maynard',
+  siteTitle: 'David Maynard: Software Artist',
+  siteTitleShort: 'Software Artist',
   siteTitleAlt: 'David S Maynard',
   siteLogo: '/logos/LegoDSM32.png',
-  siteUrl: 'https://www.davidsmaynard.com',
+  siteUrl: 'https://www.softwareartist.com',
   repo: 'https://github.com/dmaynard/website',
   pathPrefix: '',
   dateFromFormat: 'YYYY-MM-DD',

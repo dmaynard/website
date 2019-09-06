@@ -40,7 +40,7 @@ export default class Navigation extends Component {
           <div className="brand">
             <Link to="/">
               <img src={favicon} className="favicon" alt="LEGO DSM" />
-              <span className="text">David S Maynard</span>
+              <span className="text">Software Artist</span>
             </Link>
           </div>
           <div className="links">
@@ -49,9 +49,6 @@ export default class Navigation extends Component {
                 {link.name}
               </Link>
             ))}
-            <a target="_blank" rel="noopener noreferrer" href="https://ko-fi.com/davidsmaynard0797">
-              <img src={kofi} alt="Kofi" className="kofi" />
-            </a>
             <div className="cta">
               <button className="dark-switcher" onClick={theme.toggleDark}>
                 {theme.dark ? (

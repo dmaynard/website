@@ -33,6 +33,7 @@ export default class Index extends Component {
           <div className="lead">
             <div>
               <h1>{`David S Maynard: My Blog`}</h1>
+              
               <p>
               From graduation, with a Computer Science Degree from U.C. Berkeley in 1969, through my recent retirement from Box Inc. with stops at SRI, Xerox PARC, Electronic Arts, SGI, and Google I have watched
                 <a target="_blank" href="https://a16z.com/2011/08/20/why-software-is-eating-the-world/"> software eating the world.</a>
@@ -104,6 +105,7 @@ export default class Index extends Component {
                 </p>
                 <cite>— Greg Keizer Assistant Editor COMPUTE magazine</cite>
               </blockquote>
+              <p/>
               <blockquote className="quotation">
                 <p>
                   {`“This is the most original piece of recreational software I have ever seen.”`}
