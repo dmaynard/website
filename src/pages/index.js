@@ -33,12 +33,14 @@ export default class Index extends Component {
           <div className="lead">
             <div>
               <h1>{`David S Maynard: My Blog`}</h1>
-              
+
               <p>
               From graduation, with a Computer Science Degree from U.C. Berkeley in 1969, through my recent retirement from Box Inc. with stops at SRI, Xerox PARC, Electronic Arts, SGI, and Google I have watched
                 <a target="_blank" href="https://a16z.com/2011/08/20/why-software-is-eating-the-world/"> software eating the world.</a>
               </p>
               <p>I am writing this blog to record some of my memories of watching, and participating in, multiple computer revolutions, from the first the human/computer interfaces, to local area networking, to the birth of the GUI, to the personal computer, to computer gaming, to 3D, to internet based mobile maps, to mobile interfaces to cloud based services. I will also use this blog to document my continuing journey of learning software systems and frameworks and creation of software art in retirement. My first two retirement projects are reproducing a software game I wrote that Electronic Arts published in 1983, "Worms?", as a single page JavaScript Application, and creating this blog using <a target="_blank" href="https://www.gatsbyjs.org/"> Gatsby.</a>
+              </p>
+              <p> Note: Although you will not find any ads in this blog, I can not say the same for the external links.  I only include external links that I have found useful, entertaing or informative. I am not responsible for the content of any external links.
               </p>
               <div className="social-buttons">
                 <div>
@@ -99,18 +101,25 @@ export default class Index extends Component {
                 </p>
                 <cite>— William Micheal Brown - Electronic Fun Magazine</cite>
               </blockquote>
+
               <blockquote className="quotation">
                 <p>
                   {`“Worms? is one of the most fascinating games I've played in a long time. It's so different from anything else that it quickly captivated me. Worms? tournaments became popular among the staff of COMPUTE!. ”`}
                 </p>
                 <cite>— Greg Keizer Assistant Editor COMPUTE magazine</cite>
               </blockquote>
-              <p/>
+              <p> </p>
               <blockquote className="quotation">
                 <p>
-                  {`“This is the most original piece of recreational software I have ever seen.”`}
+                  {`Worms? is intellectually stimulating, beautiful to watch and soothing to hear. The entire gaming experience is transcendental, the patterns are hypnotic. Worms? is vastly different from any other computer game I've ever seen. This is the most original piece of recreational software I have ever seen.`}
                 </p>
                 <cite>— Tom Benford **RUN** May 1984 magazine</cite>
+              </blockquote>
+              <blockquote className="quotation">
+                <p>
+                  {`“.. (Worms?) is a skill game, that is unique, engaging, and delightful. The game holds a lasting and nearly hypnotic fascination. There is something compelling about the intricacies of pattern - from the fugues of Bach to the mosaics of the Alhambra - that makes humans rejoice. The game Worms? combines harmonies of patterns in an extremely original and diverting way, and is good for hours of experimentation. Then challenge the world!”`}
+                </p>
+                <cite>— John Anderson **Creative Computing**, September 1983</cite>
               </blockquote>
             </div>
           </section>
