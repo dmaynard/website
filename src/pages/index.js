@@ -40,7 +40,7 @@ export default class Index extends Component {
               </p>
               <p>I am writing this blog to record some of my memories of watching, and participating in, multiple computer revolutions, from the first the human/computer interfaces, to local area networking, to the birth of the GUI, to the personal computer, to computer gaming, to 3D, to internet based mobile maps, to mobile interfaces to cloud based services. I will also use this blog to document my continuing journey of learning software systems and frameworks and creation of software art in retirement. My first two retirement projects are reproducing a software game I wrote that Electronic Arts published in 1983, "Worms?", as a single page JavaScript Application, and creating this blog using <a target="_blank" href="https://www.gatsbyjs.org/"> Gatsby.</a>
               </p>
-              <p> Note: Although you will not find any ads in this blog, I can not say the same for the external links.  I only include external links that I have found useful, entertaing or informative. I am not responsible for the content of any external links.
+              <p> Note: Although you will not find any ads in this blog, I can not say the same for the external links.  I only include external links that I have found useful, entertaining or informative. I am not responsible for the content of any external links.
               </p>
               <div className="social-buttons">
                 <div>
