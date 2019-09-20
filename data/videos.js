@@ -4,6 +4,11 @@ import darwormslogo from '../content/thumbnails/darwormslogo-300x300.png'
 
 const videos = [
   {
+    title: 'Darworms Intorduction - 4 minute introduction video for Darworms',
+    path: 'https://youtu.be/lYncJeZKdJc',
+    img: darwormslogo,
+  },
+  {
     title: 'Meet David Maynard - David Maynard has shipped code in 30 languages.',
     path: 'https://www.youtube.com/watch?v=YSH3y1CuInQ&t=7s',
     img: legodsm,

@@ -31,6 +31,8 @@ Why would anyone want to spend time recreating a 36 year old video game that was
 * I want to see if a being "Software Artist" is a viable goal today. Is it possible for a one man shop to create, publish, distribute and market a casual game today.  Is it possible to make enough money to at least cover costs?
 
 
-Please, if you like abstract strategy games.  check out [Darworms](https:www.darworms.com) out and let me know what you think.  If you like it please share it. Thank you.
+Please, if you like abstract strategy games.  check out [Darworms](https:www.darworms.com) and let me know what you think.  If you like it please share it. Thank you.
 
-Interested in comparisons between the experience of being a Software Artist in 1982 versus today?  Read my blog post [here](/software-artist-1982-vs-today/)
+You can find a short [4 minute tutorial on YouTube](https://youtu.be/lYncJeZKdJc)
+
+Are you interested in comparisons between the experience of being a Software Artist in 1982 versus today?  You can read my blog post [here](/software-artist-1982-vs-today/)
