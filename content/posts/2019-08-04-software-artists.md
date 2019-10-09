@@ -2,6 +2,7 @@
 date: 2019-08-04
 title: 'Software Artists'
 template: post
+teaser: 'Is Software an Art Form? What is a Software Artist?'
 thumbnail: '../thumbnails/WeSeeFarther320x320.png'
 slug: software-artists
 categories:

@@ -71,13 +71,13 @@ export default class Index extends Component {
         <div className="container front-page">
           <section className="section">
             <h2>Latest Articles</h2>
-            <PostListing simple postEdges={latestPostEdges} />
+            <PostListing  simple postEdges={latestPostEdges} />
           </section>
 
-          <section className="section">
-            <h2>Most Popular</h2>
-            <PostListing simple postEdges={popularPostEdges} />
-          </section>
+          {/* <section className="section"> */}
+          {/*   <h2>Most Popular</h2> */}
+          {/*   <PostListing simple postEdges={popularPostEdges} /> */}
+          {/* </section> */}
 
           <section className="section">
             <h2>Open Source Projects</h2>
@@ -146,6 +146,7 @@ export const pageQuery = graphql`
           timeToRead
           frontmatter {
             title
+            teaser
             tags
             categories
             thumbnail {

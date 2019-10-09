@@ -4,7 +4,7 @@ import darwormslogo from '../content/thumbnails/darwormslogo-300x300.png'
 
 const videos = [
   {
-    title: 'Darworms Introduction - A short introduction video for Darworms',
+    title: 'Darworms Introduction - A short (6 minute) introduction video for Darworms',
     path: 'https://youtu.be/Uq3-C6aN-J0',
     img: darwormslogo,
   },
@@ -29,7 +29,7 @@ const videos = [
     img: darwormslogo,
   },
   {
-    title: 'The First Internet Packet  - David Maynard explains the first ARPA net packet failed.',
+    title: 'The First Internet Packet  - David Maynard tells the story of why the first ARPA net packet failed.',
     path: 'https://www.youtube.com/watch?v=DjTh65tOFh0',
     img: legodsm,
   },

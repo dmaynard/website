@@ -1,6 +1,7 @@
 ---
 date: 2019-08-06
 title: 'Announcing the Official Launch of Darworms'
+teaser: 'C64 Worms? resurfaces as Darworms a Browser Game 36 years, and one retirement later.'
 template: post
 thumbnail: '../thumbnails/darwormslogo-300x300.png'
 slug: darworms
@@ -33,6 +34,6 @@ Why would anyone want to spend time recreating a 36 year old video game that was
 
 Please, if you like abstract strategy games.  check out [Darworms](https:www.darworms.com) and let me know what you think.  If you like it please share it. Thank you.
 
-You can find a short [4 minute tutorial on YouTube](https://youtu.be/Uq3-C6aN-J0)
+You can find a short [6 minute tutorial on YouTube](https://youtu.be/Uq3-C6aN-J0)
 
 Are you interested in comparisons between the experience of being a Software Artist in 1982 versus today?  You can read my blog post [here](/software-artist-1982-vs-today/)

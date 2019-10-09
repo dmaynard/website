@@ -16,6 +16,7 @@ export default class PostListing extends Component {
           thumbnail: postEdge.node.frontmatter.thumbnail,
           title: postEdge.node.frontmatter.title,
           date: postEdge.node.fields.date,
+          teaser: postEdge.node.frontmatter.teaser,
           excerpt: postEdge.node.excerpt,
           timeToRead: postEdge.node.timeToRead,
           categories: postEdge.node.frontmatter.categories,
@@ -35,7 +36,6 @@ export default class PostListing extends Component {
           if (post.thumbnail) {
             thumbnail = post.thumbnail.childImageSharp.fixed
           }
-
           const popular = post.categories.includes('Popular')
           const date = formatDate(post.date)
           const newest = moment(post.date) > moment().subtract(1, 'months')
@@ -59,7 +59,9 @@ export default class PostListing extends Component {
                   </div>
                 )}
               </div>
+              <p> {post.teaser}</p>
             </Link>
+
           )
         })}
       </section>

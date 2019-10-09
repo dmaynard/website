@@ -1,7 +1,7 @@
 ---
 date: 2019-07-23
 title: 'Software Artist 1982 vs Today'
-excerpt: 'Find out why the development delta between my home and my office in 1982 was greater than the delta between my office in 1982 and today'
+teaser: 'Find out why the development delta between my home and my office in 1982 was greater than the delta between my office in 1982 and my office today'
 template: post
 thumbnail: '../thumbnails/Atari_800_System_s1.jpg'
 slug: software-artist-1982-vs-today

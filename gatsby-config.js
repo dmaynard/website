@@ -174,6 +174,7 @@ module.exports = {
                     }
                     frontmatter {
                       title
+                      teaser
                       date
                       categories
                       tags
