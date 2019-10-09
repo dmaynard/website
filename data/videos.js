@@ -5,7 +5,7 @@ import darwormslogo from '../content/thumbnails/darwormslogo-300x300.png'
 const videos = [
   {
     title: 'Darworms Introduction - A short introduction video for Darworms',
-    path: 'https://youtu.be/lYncJeZKdJc',
+    path: 'https://youtu.be/Uq3-C6aN-J0',
     img: darwormslogo,
   },
   {

@@ -1,6 +1,7 @@
 ---
 date: 2019-07-23
 title: 'Software Artist 1982 vs Today'
+excerpt: 'Find out why the development delta between my home and my office in 1982 was greater than the delta between my office in 1982 and today'
 template: post
 thumbnail: '../thumbnails/Atari_800_System_s1.jpg'
 slug: software-artist-1982-vs-today
@@ -70,6 +71,7 @@ Today the independent game developer has an embarrassment of riches at her dispo
 * Atom
 * Chrome Developer Tools
 * Google Analytics
+* Screen Capture and Video Editing
 
 In 1982 I understood every line of the forth code, and knew precisely how to control the hardware of the Atari 800.  Today I experience what I call the Fog of the Framework.  Like a 3D scene that uses fog to reduce the number of polygons to render, my mind can focus on only small portions at a time of the varied myriad frameworks needed to publish a game today.  If I have trouble, I use the magnifying technique and incantations (Google Search and StackOverflow), to zoom in on one small aspect of a given framework until I can solve my problem.  The terrain is so vast that I soon forget the details of that piece of framework until I must revisit the issue. This may be because my memory cache size has shrunk with age. This leaves an unsettling feeling of depending upon mountains of code that one has no idea of how it works.  The amplification of capabilities provided by the frameworks more than makes up for this, but still leaves me with an unsettled feeling.
 
