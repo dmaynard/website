@@ -79,7 +79,7 @@ Here are some comparison metrics between creation of virtually the same game in 
 
 Item |    1982   |   2019  | Comparison
 -----------|-------------|-------------|--------
-Platform | Atari 800 | Modern Web Browsers | Clould to Mud
+Platform | Atari 800 | Modern Web Browsers | Access to 90KB floppy vs Access to all the world's knowledge 
 Dev CPU   | 1.79 MHz | 2.5 GHz (x4 Cores) | ~ 500 x
 Dev RAM  | 48 KB  |  16 GB | 40,000 x
 Dev System Cost  |  $2,500 |  $2,500 | ~=
@@ -116,7 +116,7 @@ Mouse   |  ✅ |  ✅
 LAN  | ✅  |  ✅
 WAN  | ✅   | ✅
 Network File System  | ✅  |  ✅
-Pivate Office  | ✅   |  ❌
+Private Office  | ✅   |  ❌
 World Wide Web  | ❌  |   ✅
 High Level Programming Languages  |  ✅   |   ✅
 Multi-Lingual Support  | ✅  |  ✅
