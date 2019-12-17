@@ -1,4 +1,12 @@
 const projects = [
+
+  {
+    icon: '🎨',
+    title: 'Chaotic Attractor Visualizer',
+    path: 'https://chaosvue.netlify.com',
+    source: 'https://github.com/dmaynard/chaosvue/',
+    description: 'Generate beautiful Chaotic Attractor images interactively',
+  },
   {
     icon: '📱',
     title: 'Darworms',
