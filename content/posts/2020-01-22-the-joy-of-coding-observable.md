@@ -15,7 +15,7 @@ tags:
 ---
 
 I like coding, I really do. I am retired and I code for fun.  I also like learning about new languages, frameworks, and visualization tools. Coding is much more fun in software artist mode, than it is in software engineering mode.  The difference is an artist codes what he wants to code whereas an engineer codes what someone else thinks they want. This is a story about my experience exploring [Observable](https://www.observablehq.com)  *"The magic notebook for exploring data and thinking with code.*"
-It all started Monday morning when, like I have every Monday morning for the last 25 years, I opened the "Monday Morning Tickler" puzzle email from my good friend [RJ Mical](https://www.youtube.com/watch?v=TkOfi05ED5c).  RJ was instrumental in the development of the Amiga, the Atari Lynx, and the 3DO Machine. He is currently director of Games at Google. (Note to self: write a software-artist tribute blog post about RJ). Here was the Tickler Puzzle for January, 20th.
+It all started Monday morning when, like I have every Monday morning for the last 10 years, I opened the "Monday Morning Tickler" puzzle email from my good friend [RJ Mical](https://www.youtube.com/watch?v=TkOfi05ED5c).  RJ was instrumental in the development of the Amiga, the Atari Lynx, and the 3DO Machine. He is currently director of Games at Google. (Note to self: write a software-artist tribute blog post about RJ). Here was the Tickler Puzzle for January, 20th.
 ```
 Today's Monday Morning Tickler: Four of a Kind
 
