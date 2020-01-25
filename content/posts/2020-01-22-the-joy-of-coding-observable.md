@@ -46,10 +46,10 @@ Another of Maynard's laws about programming is:
 
 RJ's four of a kind question provided the a great vehicle for learning *Observable*.  In *Observable* this means creating an interactive page called a notebook which solves the problem and provides both a UI and live code which the viewer can see and even modify.  I started on Monday afternoon, and by Tuesday evening I had a working notebook which you see and interact with [here](https://observablehq.com/@dmaynard/tickler-puzzle-four-of-a-kind).
 
-![Not Normal Curve](../images/four_of_a_kind4.png)
+![Not Normal Curve](../images/four_of_a_kind5.png)
 
 When you go to the [notebook](https://observablehq.com/@dmaynard/tickler-puzzle-four-of-a-kind) check the  *Replace card to deck after drawing it*  checkbox and instantly the chart and html reflect the change.
-![Normal Curve](../images/four_of_a_kind2.png)
+![Normal Curve](../images/four_of_a_kind6.png)
 When you replace the cars in the deck after drawing the curve becomes a normal distribution, unlike list distribution with replacement.
 
 The slider controls how many iteration of the random simulations are executed before redrawing the chart.   Adjusting the slider and watching the charts change gives you a good feel for how sensitive a normal distribution is to the number of samples included. I customized the slider to be logarithmic. Each move to the left or right divides or multiples the number of sample by 10.
