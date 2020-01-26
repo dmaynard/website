@@ -92,7 +92,7 @@ export default class Index extends Component {
 
 
           <section className="section">
-            <h2>{`Other People's Opinions`}</h2>
+            <h2>{`Reviews of Worms? (1983) now Darworms (2019)`}</h2>
             <div className="quotations">
               <blockquote className="quotation">
                 <p>
@@ -107,7 +107,12 @@ export default class Index extends Component {
                 </p>
                 <cite>— Greg Keizer Assistant Editor COMPUTE magazine</cite>
               </blockquote>
-              <p> </p>
+              </div>
+              </section>
+              <section className="section">
+              <div>
+
+              <div className="quotations">
               <blockquote className="quotation">
                 <p>
                   {`Worms? is intellectually stimulating, beautiful to watch and soothing to hear. The entire gaming experience is transcendental, the patterns are hypnotic. Worms? is vastly different from any other computer game I've ever seen. This is the most original piece of recreational software I have ever seen.`}
@@ -120,6 +125,7 @@ export default class Index extends Component {
                 </p>
                 <cite>— John Anderson **Creative Computing**, September 1983</cite>
               </blockquote>
+              </div>
             </div>
           </section>
         </div>
