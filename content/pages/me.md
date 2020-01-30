@@ -67,7 +67,7 @@ A non-exhaustive list.
 - **1981** - I purchased an Atari-800 with 48kb of RAM and one Atari 810 floppy drive. 5.25" floppies help 90KB of data. Cost ~ $2,000.
 - **1982** – JDS project got folded into the Star project and I get transferred from Xerox PARC (Consulair actually) to Xerox System Development Department.
 - **1982** - I wrote the first version of Worms? at home, using the Atari 800 and the Forth Language.  It took me about six months to write the game, and about six months to get official release from Xerox Corporate that they were not interested in claiming any rights to my side project.
-- **1982** - I went looking for a games publisher.  Electronic Arts was just starting up and they offered to publish my game and also gave me a job offer as a software engineer which I eagerly accepted.  Steve Hayes also from Xerox SDD and I became the first two software engineers hired by Electronic Arts.  This was December of 1982.
+- **1982** - I went looking for a games publisher.  Electronic Arts was just starting up and they offered to publish my game and also gave me a job offer as a software engineer which I eagerly accepted.  Steve Hayes, also from Xerox SDD, and I became the first two software engineers hired by Electronic Arts.  This was December of 1982.
 - **1982 - 1989** Electronic Arts. Technical Director. Worked with great people and great programmers on great games.  [M.U.L.E.](http://www.geekometry.com/2013/11/gamechanger-m-u-l-e/), [Seven Cities of Gold](https://en.wikipedia.org/wiki/The_Seven_Cities_of_Gold_(video_game)), [Starflight](https://arstechnica.com/gaming/2012/09/masterpiece-starflight-for-pc/), [Modem Wars](https://en.wikipedia.org/wiki/Modem_Wars), [Earl Weaver Baseball](https://en.wikipedia.org/wiki/Earl_Weaver_Baseball) and many more.
 - **1989** - Joined Silicon Graphics to help add multi-media to the Indigo Product.
 - **1992-1999** – The 3DO Company. Software Director, build development tools environment on the Mac for the 3DO machine.
@@ -75,7 +75,7 @@ A non-exhaustive list.
 - **2001 - 2003** - The 3DO Company
 - **2003 - 2005** - Digital Chocolate  Mobile Gaming on Brew and J2ME platforms.
 - **2006 - 2009** - Google. Managed Google Maps for Mobile group during explosive growth on Blackberry platform
-- **2010 - 2011** - Total Immersion Software. Wrote an Android app worm by bomb detection dogs to help train dog trainers.
+- **2010 - 2011** - Total Immersion Software. Wrote an Android app worn by bomb detection dogs to help train dog trainers. It recorded GPS and Dogs posture for replay in simulated war zones.
 - **2011 - 2017** - Box Inc.  Manager of Mobile Applications.  Managed iOS and Android application development for the Box cloud Content Management System.
 - **2017 - Present** - Retired, but still learning new things and still hacking code.
 
