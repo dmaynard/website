@@ -100,7 +100,7 @@ Try making the following changes to the code:
   return form;
 }
 ```
-Now hit Shift+Return or click the > button in the upper right of the editor window and instantly your slider now uses natural logs instead of powers of ten. This gives finer control over the number of samples, but doesn't yield nice round numbers. There, you just live edited your first visualization web page!  Pretty amazing.  You can also import javascript libraries and cells from other notebooks. for example this page uses the wonderful [vegalie](https://vega.github.io/vega-lite/) charting package.  Here is the entire code needed to chart the results.
+Now hit Shift+Return or click the > button in the upper right of the editor window and instantly your slider now uses natural logs instead of powers of ten. This gives finer control over the number of samples, but doesn't yield nice round numbers. There, you just live edited your first visualization web page!  Pretty amazing.  You can also import javascript libraries and cells from other notebooks. for example this page uses the wonderful [Vega-Lite](https://vega.github.io/vega-lite/) charting package.  Here is the entire code needed to chart the results.
 ```
 vegalite = require("@observablehq/vega-lite")
 
