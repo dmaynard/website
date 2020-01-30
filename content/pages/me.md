@@ -23,7 +23,7 @@ I plan to record in this blog some of the Silicon Valley history I have witnesse
 ## Family
 ![Sally and I](../images/Maynards.jpg)
 I have been married to my beautiful and talented wife Sally for 36 years.
-I have 3 kids, Jordan, Phil, and Dana.  All three are alumni of Electronic Arts, and my two sons are still very active in the game industry at [Manitcore](https://www.manticoregames.com/)
+I have 3 kids, Jordan, Phil, and Dana.  All three are alumni of Electronic Arts, and my two sons are still very active in the game industry at [Manticore Games](https://www.manticoregames.com/)
 ## Links
 
 A non-exhaustive list.
