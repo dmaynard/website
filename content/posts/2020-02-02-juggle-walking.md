@@ -1,6 +1,6 @@
 ---
 date: 2020-02-02
-title: 'Exercise Your Mind, Your Body, and the Neural Network that connects them'
+title: 'Jugwalking: Exercise Your Mind, Your Body, and the Neural Network that connects them'
 template: post
 teaser: 'A non-impact, non-aerobic exercise for mind, body and awareness'
 thumbnail: '../thumbnails/jugwalking.png'
@@ -40,17 +40,17 @@ Here is a step-by-step tutorial teaching you how to juggle.
 
 ## Juggling As Active Meditation
 
-All jugglers I have ever met feel that juggling becomes a form of active meditation. It certainly forces you to concentrate and to be fully aware and fully in the present.  Joe Hart explains this in this 3 minute video [Intro To juggling as active meditation](https://vimeo.com/342182144). Similarly see [Understanding meditation | How meditation is like juggling (2 minutes)](https://www.youtube.com/watch?v=zL6F8baN0hA)
+All jugglers I have ever met feel that juggling becomes a form of active meditation. It certainly forces you to concentrate and to be fully aware and fully in the present. Joe Hart explains this in this 3 minute video [Intro To juggling as active meditation](https://vimeo.com/342182144). Similarly see [Understanding meditation | How meditation is like juggling (2 minutes)](https://www.youtube.com/watch?v=zL6F8baN0hA)
 
 In November of 2012 my employer Box, gave away Fitbit Zip devices to every employee. It was an enlightened and effective move, at least for me.
 
 In the seven years since then my Fitbit Zip has logged over 34 million steps, averaging over twelve thousand steps a day.  I find I average about 5 or 6 thousand steps a day in normal daily activities.  That means I need to take a one hour long walk every day, or break that into multiple walks.
 
 ## Jugwalking
-Since I already knew how to juggle I thought I would try to learn to juggle while walking.  With some practice I found it was possible. Jugwalking provides an activity that is good fun, is good for you physically and mentally, provides focus and awareness while simultaneously bringing smiles to the faces of children and children at heart.  Combining exercise, mindfullness, meditation, and spreading smiles all at once make Jugwalking an enjoyable experience.
+The hour long walks in same neighborhood began to get pretty boring. I knew how to do a simple three ball cascade juggle.  I wondered whether I could learn to juggle while walking.  I found that it was not too difficult to master.  Thus I took up jugwalking. I jugwalk for about 30 minutes almost every day now. Jugwalking provides an activity that is good fun, is good for you physically and mentally, provides focus and awareness while simultaneously bringing smiles to the faces of children and children at heart.  Combining exercise, mindfullness, meditation, and spreading smiles all at once make jugwalking an enjoyable experience.  You may even become known as "The Juggler" on your local nextdoor.com site.
 
 ### Some tips and warnings
-* Learn to juggle first. You should be able to juggle for one minute before you try Jugwalking.
+* Learn to juggle first. You should be able to juggle for at least one minute continuously before you try Jugwalking.
 * Only try this on smooth level surfaces with no obstructions.
 * Avoid hills.
 * Use beanbags or balls designed for juggling.
