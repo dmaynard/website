@@ -1,14 +1,15 @@
+---
 date: 2021-09-12
 title: 'Questionnaire from Retro Gamer About Worms?'
 template: post
-teaser: 'How dioned one of the strangest games ever got published'
+teaser: 'How one of the strangest games ever got published'
 thumbnail: '../thumbnails/worms.png'
 slug: retrogamer
 categories:
   - history
-  - games
-  - Electronic Arts
+  - worms?
 tags:
+  - pcgaming
 ---
 ## Questions from Andrew Fisher for a Retro Gamer Article on Worms?
 ## How did you start programming?
@@ -36,7 +37,7 @@ Yes, if that is the company that was being run by Clement Chalmbers.
 Yes definitely. Nu Wave expressed an interest in publishing the game in Europe.  EA was not interested in marketing the game any further anywhere.  Worms? was SO different that it quickly became a sort of cult product. Reviewers loved it because it was sooo different and consumers hated it because it was so different.  Anyway EA agreed that I could license it. I signed a deal for a small advance and sent the ported code over.  That was the last I heard of it until several years later when I got a letter from a British Bankruptcy court saying there were no funds to cover the debt owed to me.
 ## When did you leave the games industry?
 I left the games industry four times.  The first time was in 1989 when I left EA to go to Silicon Graphics to help them add multimedia to their 3D hardware and software. I went back in 1992 to join Trip Hawkins again as he was building the 3DO Company. I left 3DO in 1999 in the dot com bubble to join a voice chat start-up, Firetalk Communications. When the bubble burst I went back to 3DO until the wizard ran out of food. I took six months off to study Bioinformatics then rejoined the games industry in its mobile guise with Digital Chocolate in 2004 (YATHGS -- Yet another Trip Hawkins Game Startup. I left the game industry for the last time in 2006 to join Google.
-## What made you go back to create Daworms?
+## What made you go back to create Darworms?
 When I retired from Box Inc. in 2017 I decided I wanted to learn JavaScript. In 50 years in the industry and having learned over 30 different languages I know that the best way to learn a new language is to write and application in that language.   Worms? is a fairly simple game so I decided to use it for my sample application.  I also wanted to make it available to more people.  I changed the name because I always hated the name "Worms?" (probably the worst idea EA marketing ever had). My original name was "Sumo Worms". Darworms also hints at some planned extensions.  It is amazing to me that even though billions of people have access to www.darworms.com fewer people have visited for free than did pay $40 US 1982 dollars for a shrink wrapped floppy disk.  The difficulty of getting anything noticed in an evironment where thousands of new products get launched everyday is enormous. 
 ## Do you think there is untapped potential in the game’s idea?
 Yes. I have many ideas for extensions.  Hooking up a javascript midi player to the moves.  Network Play. Genetic Programming to let worms breed when they die together in a cell and evolve the darworms for high scores, or interesting patterns.   Make a 3D version.  The game is available at www.darworms.com The game is open sourced at https://github.com/dmaynard/Darworms If anyone would like to contribute or collaborate please let me know.

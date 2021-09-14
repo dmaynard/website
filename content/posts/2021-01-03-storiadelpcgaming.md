@@ -2,7 +2,7 @@
 date: 2021-02-02
 title: 'An interview  on the history of PC Gaming '
 template: post
-teaser: 'with Italian production company Storia del pcgaming'
+teaser: 'With Italian production company Storia del pcgaming'
 thumbnail: '../thumbnails/logo-pc-gaming.png'
 slug: storiadelpcgaming
 categories:
