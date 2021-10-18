@@ -2,8 +2,8 @@
 date: 2021-10-06
 title: "Adding a wasm/rust module to a Vue App"
 template: post
-teaser: "Adding a WASm/Rust npm module to a Vue Application"
-thumbnail: "../thumbnails/logo-pc-gaming.png"
+teaser: "Part 1 we establish two way function calling between Rust and a Vue Component"
+thumbnail: "../thumbnails/ES6-wasm-rust-ES6.png"
 slug: wasmrust
 categories:
   - coding
@@ -222,4 +222,36 @@ run
 yarn serve
 ```
 
-to test. Eureka. We now have two way communication between a Vue component and a rust/wasm module. Pretty cool. During development it will be easier to load the wasm module from the local file system so we don't have to upload the package to npm every time we make a change to the rust code.
+to test. Eureka. ![Modern Browsers](../thumbnails/ES6-wasm-rust-ES6.png)We now have two way communication between a Vue component and a rust/wasm module. Pretty cool. During development it will be easier to load the wasm module from the local file system so we don't have to upload the package to npm every time we make a change to the rust code. To do this all we need to do is modify the package.json to point to the local file system, run yarn to install the new local dependency, and change the nape of the import package to whatever we named the dependency in the package.json file
+
+```
+diff --git a/package.json b/package.json
+-    "@davidsmaynard/rust-wasm-attractor": "^0.1.0"
++    "rust-wasm-attractor": "file:../rust/rust-wasm-attractor/pkg"
+```
+
+Now run yarn
+
+```
+   ~/p/chaos-screen-saver    addRustModule !2  yarn
+yarn install v1.22.10
+[1/4] 🔍  Resolving packages...
+[2/4] 🚚  Fetching packages...
+[3/4] 🔗  Linking dependencies...
+[4/4] 🔨  Building fresh packages...
+success Saved lockfile.
+```
+
+Change the parameter of the webpack async import
+
+```
+diff --git a/src/components/ChaosCanvas.vue b/src/components/ChaosCanvas.vue
+index 100166f..10af94f 100644
+--- a/src/components/ChaosCanvas.vue
++++ b/src/components/ChaosCanvas.vue
+-    this.wasmPromise = import("@davidsmaynard/rust-wasm-attractor")
++    this.wasmPromise = import("rust-wasm-attractor")
+       .then((wasm) => {
+         this.wasm = wasm;
+       })
+```
