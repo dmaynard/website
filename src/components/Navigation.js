@@ -3,7 +3,7 @@ import { Link } from 'gatsby'
 import favicon from '../images/LegoDSM.png'
 import sun from '../images/sun.svg'
 import moon from '../images/moon.svg'
-import kofi from '../../content/thumbnails/kofi.png'
+// import kofi from '../../content/thumbnails/kofi.png'
 import ThemeContext from '../context/ThemeContext'
 
 export default class Navigation extends Component {

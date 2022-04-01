@@ -746,8 +746,8 @@ blockquote {
 
 .note {
   background: $light;
-  padding: 2rem 0;
-  margin: 1.5rem 0;
+  padding: .2rem 0;
+  margin: .5rem 0;
   border-top: 2px solid #f0f0f0;
   border-bottom: 2px solid #f0f0f0;
 
@@ -755,7 +755,7 @@ blockquote {
     background: white;
     border-radius: $border-radius;
     box-shadow: $box-shadow;
-    padding: 1.5rem;
+    padding: .5rem;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -775,8 +775,8 @@ blockquote {
 @include small-breakpoint {
   .note {
     background: $light;
-    padding: 2rem 0;
-    margin: 1.5rem 0;
+    padding: .1rem 0;
+    margin:  .2rem 0;
     border-top: 2px solid #f0f0f0;
     border-bottom: 2px solid #f0f0f0;
 
