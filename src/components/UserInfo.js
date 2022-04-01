@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
-import dsm from '../../content/images/dsmheadshot200x250.png'
-import patreon from '../../content/thumbnails/patreon.png'
-import kofi from '../../content/thumbnails/kofi.png'
+import dsm from '../../content/images/dsmheadshot50x63.png'
+// import patreon from '../../content/thumbnails/patreon.png'
+// import kofi from '../../content/thumbnails/kofi.png'
 
 export default class UserInfo extends Component {
   render() {
@@ -14,9 +14,9 @@ export default class UserInfo extends Component {
             </div>
             <div>
               <p>
-                {`I am David S Maynard retired computer scientist and life-long learner`}
+                {`I am David S Maynard retired computer scientist/artist and life-long learner`}
               </p>
-
+              {/*  Kofi and patreon buttons 
               <div className="flex">
                 <a
                   href="https://ko-fi.com/davidsmaynard0797"
@@ -36,6 +36,7 @@ export default class UserInfo extends Component {
                   <img src={patreon} height="50" width="50" /> Patreon
                 </a>
               </div>
+              */}
             </div>
           </div>
         </div>

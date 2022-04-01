@@ -19,7 +19,7 @@ I plan to record in this blog some of the Silicon Valley history I have witnesse
 - GitHub: [dmaynard](https://github.com/dmaynard)
 - Twitter: [dsmaynard](https://twitter.com/dsmaynard)
 - LinkedIn: [David Maynard](https://linkedin.com/in/davidsmaynard)
-- Ko-fi: [David Maynard](https://ko-fi.com/davidsmaynard0797)
+
 
 ## Family
 

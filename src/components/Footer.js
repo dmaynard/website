@@ -6,9 +6,6 @@ export default class Footer extends Component {
     return (
       <footer className="footer container">
 
-        <a href="https://patreon.com/davidsmaynard" target="_blank" rel="noopener noreferrer">
-          Patreon
-        </a>
         <a href="https://twitter.com/dsmaynard" target="_blank" rel="noopener noreferrer">
           Twitter
         </a>
