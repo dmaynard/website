@@ -37,7 +37,7 @@ export default class Index extends Component {
                 I am writing this blog to record some of my memories of
                 watching, and participating in, multiple computer revolutions.
                 Augmenting Knowledge workers at SRI with Douglas Engelbart,
-                Personbal Computing at P.A.R.C., Computer entertainment at
+                Personal Computing at P.A.R.C., Computer entertainment at
                 Electronic Arts, and Mobile Computing at Google, and Clous
                 computing at Box. I will also use this blog to document my
                 continuing journey of learning new software systems, and
